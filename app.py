@@ -10,10 +10,16 @@ model = joblib.load('models/maintenance_model.joblib')
 
 @app.route('/')
 def home():
+    """Renders the home page."""
     return render_template('index.html')
 
 @app.route('/predict', methods=['POST'])
 def predict():
+    """
+    Handles the prediction request.
+    Reads form data, creates a DataFrame, predicts using the loaded model,
+    and returns the result to the template.
+    """
     try:
         # Get data from form
         data = {

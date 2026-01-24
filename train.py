@@ -10,6 +10,11 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 
 def train_model():
+    """
+    Trains the maintenance cost prediction model.
+    Loads data, preprocesses features, trains a Random Forest Regressor,
+    evaluates performance, and saves the model.
+    """
     # Load data
     df = pd.read_csv('data/maintenance_data.csv')
     
