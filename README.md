@@ -225,7 +225,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Ibrar Hussain Mughal**
 - GitHub: [@Ibrarhussainmughal](https://github.com/Ibrarhussainmughal)
-- Email: ibrar@example.com
+- Email: ibrar.ali69.ia@gmail.com
 
 ## 🙏 Acknowledgments
 
