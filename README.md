@@ -165,7 +165,12 @@ The synthetic dataset simulates realistic maintenance scenarios:
 
 ## 🌐 Web Application
 
-The Flask application provides:
+The Flask application provides a user-friendly interface for making real-time cost predictions.
+
+### 🖼️ Web Interface Preview
+![Maintenance Cost Predictor UI](reports/screenshots/app_ui.png)
+
+The application features:
 - Clean, responsive UI
 - Real-time predictions
 - Input validation
