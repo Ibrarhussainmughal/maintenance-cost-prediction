@@ -293,7 +293,7 @@ This project demonstrates proficiency in:
 ## 📞 Contact & Links
 
 **GitHub Repository**: GitHub: [@Ibrarhussainmughal](https://github.com/Ibrarhussainmughal)
-**Live Demo**: [Link to be added]
+**Live Demo**: [(http://127.0.0.1:5000/)]
 **Documentation**: See README.md
 **Author**: Ibrar Hussain Mughal
 
